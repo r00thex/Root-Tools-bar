@@ -23,7 +23,7 @@ The previous version of Lucille has been fully removed. This is version 2, which
 
 
 ```bash
-git clone https://github.com/r00thex/Root-Tools-bar
+git clone https://github.com/r00thex/Root-Tools-bar.git
 cd Root-Tools-bar
 pip install -r requirements.txt
 ```
