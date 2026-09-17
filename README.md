@@ -24,15 +24,15 @@ The previous version of Lucille has been fully removed. This is version 2, which
 
 ```bash
 git clone https://github.com/r00thex/Root-Tools-bar
-cd 
+cd Root-Tools-bar
 pip install -r requirements.txt
 ```
 To launch use : 
 
 ```bash
-python 
+python rootbar.py
 or
-python2 
+python2 rootbar.py
 ```
 
 ## 📖 Usage
