@@ -1,15 +1,3 @@
-# Root-Tools-bar
-
-</h1>
-<p align="center">
-   a Python-based tool to streamline and centralize some pentesting tasks 
-<p align="center">
-  
-![screenshot](img/clip.gif)
-</p>     
-
----
-
 ## About The Project
 <b>Lucille</b> is a comprehensive web application security testing tool designed for cybersecurity professionals. built with <a href="https://www.python.org/">Python</a>, Lucille offers a suite of user-friendly tools, it aims to provide an efficient and practical tools streamlining pentesting tasks and centralizing various audit and exploitation techniques.
 
