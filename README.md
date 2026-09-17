@@ -9,7 +9,6 @@ The previous version of Lucille has been fully removed. This is version 2, which
 ## 👀 Screenshots
 
 
-
 <p float="left" align="middle">
   <img src="https://i.imgur.com/ZdiO7HR.png" width="49%" height =px>
   <img src="https://i.imgur.com/xFrGuZR.png" width="49%" >
@@ -24,16 +23,16 @@ The previous version of Lucille has been fully removed. This is version 2, which
 
 
 ```bash
-git clone https://github.com/jasonxtn/lucille.git
-cd Lucille
+git clone https://github.com/r00thex/Root-Tools-bar
+cd 
 pip install -r requirements.txt
 ```
 To launch use : 
 
 ```bash
-python lucille.py
+python 
 or
-python2 lucille.py
+python2 
 ```
 
 ## 📖 Usage
